@@ -33,6 +33,6 @@ Pada program ini, algoritma decrease and conquer yang digunakan sebagai berikut.
 8. Kembali ke repository utama, buka folder bin, jalankan 13519217.exe
 
 ## Author
-Hughie Alghaniyyu Emiliano
-NIM 13519217
-Kelas 04
+- Hughie Alghaniyyu Emiliano
+- NIM 13519217
+- Kelas 04
