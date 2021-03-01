@@ -27,7 +27,7 @@ Pada program ini, algoritma decrease and conquer yang digunakan sebagai berikut.
 2. Buatlah file testing (.txt) yang berisi test case program
 3. Simpan file testing tersebut dalam folder test pada repository
 4. Bukalah folder src, kemudian bukalah file main13519217.c
-5. Pada line 13, ubahlah nilai 'test1.txt' dengan nama file testing yang telah dibuat sebelumnya
+5. Pada line 13, ubahlah nilai 'test1.txt' pada variabel 'file' dengan nama file testing yang telah dibuat sebelumnya
 6. Save file main13519217.c tersebut
 7. Compile dengan gcc src/modul13519217.c src/main13519217.c -o bin/13519217.exe
 8. Kembali ke repository utama, buka folder bin, jalankan 13519217.exe
